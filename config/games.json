@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Gran Turismo Sport™",
+        "releaseDate": 1507420800,
+        "genre": "Race",
+        "publisher": "SIEE",
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/gran-turismo-sport-two-column-01-ps4-eu-28oct15?$TwoColumn_Image$"
+    },
+    {
+        "title": "EA SPORTS™ FIFA 18",
+        "releaseDate": 1345334400,
+        "genre": "Sports",
+        "publisher": "EA SPORTS",
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/fifa-18-two-column-ps4-eu-13jun17?$2ColExpand_Image$"
+    },
+    {
+        "title": "Dishonored 2",
+        "releaseDate": 1507852800,
+        "genre": "Action",
+        "publisher": "Bethesda Softworks",
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/dishonored-2-two-column-01-ps4-eu-03nov16?$2ColExpand_Image$"
+    },
+    {
+        "title": "Uncharted™4: A Thief’s End",
+        "releaseDate": 1510358400,
+        "genre": "Action",
+        "publisher": "SCEE",
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/uncharted-4-two-column-01-ps4-eu-11apr16?$TwoColumn_Image$"
+    },
+    {
+        "title": "Battlefield 1",
+        "releaseDate": 1507075200,
+        "genre": "First Person Shooter",
+        "publisher": "Electronic Arts",
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/battlefield-1-two-column-ps4-eu-29apr16?$2ColExpand_Image$"
+    },
+    {
+        "title": "Call of Duty®: WWII",
+        "releaseDate": 1333929600,
+        "genre": "First Person Shooter",
+        "publisher": "Activision",
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/call-of-duty-wwii-two-column-01-ps4-eu-19apr17?$TwoColumn_Image$"
+    }
+]
