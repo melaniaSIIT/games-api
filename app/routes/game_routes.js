@@ -1,5 +1,6 @@
 const ObjectID = require('mongodb').ObjectID;
 const rp = require('request-promise-native');
+const mockGames = require('../../config/games.json');
 
 
 module.exports = function(app, db) {
@@ -104,5 +105,31 @@ module.exports = function(app, db) {
 				res.send(items);
 			}
 		});
+	});
+	
+	app.get('/regenerate-games', (req, res) => {
+		const promises = [];
+		db.collection('games').remove({}).then(() => {
+				mockGames.forEach((gameDetails) => {
+						const p = new Promise((resolve, reject) =>{
+								db.collection('games').insert(gameDetails, (err, result) => {
+									if (err) {
+										reject();
+									} else {
+										resolve();
+									}
+								});
+						});
+						promises.push(p);
+				});
+		}).catch ((e) => {
+				console.log(e);
+		});
+		Promise.all(promises).then(()=>{
+			res.send("You have some brand new DB data")
+		}).catch((e) => {
+			res.status(500);
+			res.send("Somethinf went wrong");
+		})
 	});
 };
