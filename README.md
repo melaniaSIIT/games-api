@@ -5,6 +5,6 @@ npm start
 
 ## API Documentation
 
-https://docs.google.com/document/d/1F6leps0t6YmCy81us8xY-HqChXlALGBPoFIRf7F2Luc/edit?usp=sharing
+https://docs.google.com/document/d/1BIVJlWSpshNC-xJplwNyQmDqB-m_suADf1usXPJ4DTk/edit#heading=h.rrq8nak0o2j9
 
 Enjoy!
