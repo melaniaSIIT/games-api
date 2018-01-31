@@ -4,41 +4,79 @@
         "releaseDate": 1507420800,
         "genre": "Race",
         "publisher": "SIEE",
-        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/gran-turismo-sport-two-column-01-ps4-eu-28oct15?$TwoColumn_Image$"
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/gran-turismo-sport-two-column-01-ps4-eu-28oct15?$TwoColumn_Image$",
+        "description":"The award-winning Real Driving Simulator series speeds onto PlayStation 4 for the first time, putting you on course for high octane thrills to truly get your pulse racing.Sharing the wheel with FIA (Federation Internationale de l'Automobile), Polyphony Digital has engineered a finely tuned and accessible game that everyone from casual drivers to petrol heads can enjoy. Buckle up for two online championships – represent your country in the Nations Cup, and drive on behalf of your favourite car maker in the Manufacturer’s Cup.Can you claim a historic victory in the first video game to be officially recognized as part of the real motoring world?"
     },
     {
         "title": "EA SPORTS™ FIFA 18",
         "releaseDate": 1345334400,
         "genre": "Sports",
         "publisher": "EA SPORTS",
-        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/fifa-18-two-column-ps4-eu-13jun17?$2ColExpand_Image$"
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/fifa-18-two-column-ps4-eu-13jun17?$2ColExpand_Image$",
+        "description": "Powered by the Frostbite engine, EA SPORTS FIFA 18 blurs the line between the virtual and real worlds, bringing to life the players, teams and atmospheres of the sport.With the motion capture of Cristiano Ronaldo – the reigning FIFA Men’s Best Player, back-to-back European Champion and global ambassador for FIFA 18 – the Real Madrid superstar helps deliver even more fluidity, player responsiveness and other incredible gameplay elements.  And in FIFA Ultimate Team, the world’s best FUT Icons, including Ronaldo Nazário are coming to PlayStation 4."
     },
     {
         "title": "Dishonored 2",
         "releaseDate": 1507852800,
         "genre": "Action",
         "publisher": "Bethesda Softworks",
-        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/dishonored-2-two-column-01-ps4-eu-03nov16?$2ColExpand_Image$"
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/dishonored-2-two-column-01-ps4-eu-03nov16?$2ColExpand_Image$",
+        "description":"It is 15 years since the Rat Plague swept through the city of Dunwall. The Lord Regent, whose cruel reign gnawed at the city’s citizens even more feverishly than the rodents that infested it, is gone. In his place, uncertainty and fear. An otherworldly intruder has claimed Emily Kaldwin’s place as the head of the city, leaving the fate of the Isles hanging in the balance.Choose to play as the royal protector, Corvo Attano, or the deposed Empress Kaldwin herself, and venture beyond the grimy streets of Dunwall to the exotic coastal city of Karnaca. Among its decaying grandeur you’ll find the key to restoring Kaldwin to power. Harness supernatural powers to slip through the streets unnoticed, rip through your enemies or blend the two approaches. Whichever path you choose, the story responds to your choices to create outcomes as intriguing as the cities you find yourself exploring."
     },
     {
         "title": "Uncharted™4: A Thief’s End",
         "releaseDate": 1510358400,
         "genre": "Action",
         "publisher": "SCEE",
-        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/uncharted-4-two-column-01-ps4-eu-11apr16?$TwoColumn_Image$"
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/uncharted-4-two-column-01-ps4-eu-11apr16?$TwoColumn_Image$",
+        "description":"Set three years after the events of Uncharted 3: Drake’s Deception, Nathan Drake has presumably left the world of fortune hunting behind. However, it doesn’t take long for fate to come calling when Drake’s brother, Sam, resurfaces seeking his help to save his own life and offering an adventure Drake can’t resist. On the hunt for Captain Henry Avery’s long-lost treasure, Sam and Drake set off to find Libertalia, the pirate utopia deep in the forests of Madagascar. Uncharted 4: A Thief’s End takes players on a journey around the globe, through jungle isles, far-flung cities and snow-capped peaks on the search for Avery’s fortune."
     },
     {
         "title": "Battlefield 1",
         "releaseDate": 1507075200,
         "genre": "First Person Shooter",
         "publisher": "Electronic Arts",
-        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/battlefield-1-two-column-ps4-eu-29apr16?$2ColExpand_Image$"
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/battlefield-1-two-column-ps4-eu-29apr16?$2ColExpand_Image$",
+        "description":"Fight your way through vast warzones and immense battles – from tight, urban shoot-outs in a besieged French city to wide-open warfare in the Italian Alps or frantic skirmishes in the Arabian deserts. Engage in large-scale incursions as either ground infantry or while piloting vehicles across land, sea and air – everything from tanks and motorcycles to bi-planes and gigantic battleships.Discover a world at war through an adventure-driven campaign, or join intense multiplayer battles with up to 64 online players, where your play style and tactical skills will need to adapt to the ever-changing demands of a highly-destructible, dynamic environment."
     },
     {
         "title": "Call of Duty®: WWII",
         "releaseDate": 1333929600,
         "genre": "First Person Shooter",
         "publisher": "Activision",
-        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/call-of-duty-wwii-two-column-01-ps4-eu-19apr17?$TwoColumn_Image$"
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/call-of-duty-wwii-two-column-01-ps4-eu-19apr17?$TwoColumn_Image$",
+        "description":"Return to the 20th century’s most iconic armed conflict and the dramatic backdrop which first inspired the  hugely-popular Call of Duty series – now redefined for a new gaming generation.Embark on an intense journey across Europe’s vast theatre of war as part of a brotherhood of ordinary fighting men, struggling to preserve freedom as the world teeters on the brink of tyranny. Also team-up with friends online and experience a separate, story-driven cooperative campaign."
+    },
+    {
+        "title": "Dissidia: Final Fantasy NT",
+        "releaseDate": 1333929600,
+        "genre": "Action / Fighting",
+        "publisher": "SQUARE ENIX",
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/dissidia-final-fantasy-nt-two-column-01-ps4-eu-23oct17?$TwoColumn_Image$",
+        "description":"Drawing on over three decades of industry-leading game development, Dissidia: Final Fantasy NT places you and two team mates into one of over 10 iconic arenas, for an intense three-versus-three player battle between true legends of the Final Fantasy universe.A unique take on the team brawler genre, you'll choose from one of 20+ much-loved characters from the franchise and enter into battle using classic weapons and magic attacks, alongside devastating summon spells like Odin, Shiva and Ifrit.Gain new skills, earn Gil and freely customise your character as you go, then hone your newly acquired skills in practice mode before heading online for the ultimate challenge."
+    },
+    {
+        "title": "Resident Evil 7 Biohazard",
+        "releaseDate": 1333929600,
+        "genre": "Horror",
+        "publisher": "Capcom",
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/resident-evil7-biohazard-two-column-01-ps4-eu-14jun16?$TwoColumn_Image$",
+        "description":"Step into a Resident Evil experience quite unlike anything you’ve ever encountered as the series embarks on an ambitious new approach that plunges you neck-deep into the nightmare.Trade the series classic third-person gameplay and stylized visuals for an unsettlingly realistic, first-person adventure, filled with gruelling atmosphere, stomach-turning design and a hauntingly unhinged cast of new characters.Set among the isolated rural estates of America’s deep South, nothing is quite as it seems and nowhere is truly safe."
+    },
+    {
+        "title": "Robinson: The Journey",
+        "releaseDate": 1333929600,
+        "genre": "Adventure",
+        "publisher": "Crytek / SIEE",
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/robinson-two-column-01-ps4-eu-03nov15?$TwoColumn_Image$",
+        "description":"Experience a living, breathing world with your own eyes using the power of PlayStation VR – and keep all your senses finely tuned to stay alive in the natural habitat of enormous dinosaurs.See this new environment through the eyes of Robin, a young boy whose spaceship has crash-landed on a mysterious planet where the Jurassic era envelops the entire world. Uncover the secrets of Robin’s incredible surroundings in an emotionally charged storyline and explore the unknown lands alongside an AI companion who flies with you at every step of the journey.Interact with the terrain, foliage and creatures you’ll encounter, from harmless herbivores to terrifying, immense apex predators – and experience the intense realism brought to the VR headset by the power of CRYENGINE."
+    },
+    {
+        "title": "Watch_Dogs 2",
+        "releaseDate": 1333929600,
+        "genre": "Action",
+        "publisher": "Ubisoft",
+        "imageUrl": "https://psmedia.playstation.com/is/image/psmedia/watch-dogs-2-two-column-01-ps4-eu-09jun16?$TwoColumn_Image$",
+        "description":"Take an extended tour of San Francisco and test your skills in a range of high-risk additional missions and contracts with the Watch_Dogs 2 Season Pass.Take T-Bone's custom car-flipping truck for a spin in a special mission included in the first DLC pack, embark on three hour-long story missions with Lenni and Jordan in the second DLC pack, Human Conditions, and explore the city's seedy sex trade in the final DLC pack, No Compromises."
     }
 ]

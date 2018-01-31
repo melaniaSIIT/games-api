@@ -98,7 +98,13 @@ module.exports = function(app, db) {
 	/****** GAMES ******/
 	// GET Games
 	app.get('/games', (req, res) => {
-		db.collection('games').find({}).toArray(function(err, items) {
+		const projection = {
+			_id:true,
+			title: true,
+			imageUrl:true,
+			description: true
+		}
+		db.collection('games').find({}, projection).toArray(function(err, items) {
 			if (err) {
 				res.send({'error':'An error has occurred'});
 			} else {
