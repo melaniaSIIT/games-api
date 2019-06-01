@@ -45,7 +45,6 @@ module.exports = function(app, db) {
 
 	// CREATE
 	app.post('/games', (req, res) => {
-		const authToken = req.get('x-auth-token');
 		if (req.body && req.body._id) {
 			res.status(400);
 			res.json({'error': 'You should not provide an _id for a new game, it will be automatically generated on Server Side'});
